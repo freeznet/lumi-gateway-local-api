@@ -13,7 +13,7 @@
 
 命令以单播方式发送给网关的udp 9898端口。当用户需要控制墙壁开关，插座等设备时使用write命令。
 
-```{"cmd":"write","model":"ctrl_neutral1","sid":"158d0000123456","short_id":4343,"data":"{\"channel_0\":\"on\",\"key\":\"3EB43E37C20AFF4C5872CC0D04D81314\"}"}```
+
 
 网关以单播方式回复格式：
 ```{{"cmd":"write_ack","model":"ctrl_neutral2","sid":"158d0000123456","short_id":4343,"data":"{\"channel_0\":\"on\",\"channel_1\":\"off\"}"}``` 
