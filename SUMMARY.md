@@ -5,4 +5,5 @@
 * [device_read_write](device_read_write.md)
 * [device_heartbeat](device_heartbeat.md)
 * [device_report_control](device_report_control.md)
+* sensor_heatbeat_attr
 
