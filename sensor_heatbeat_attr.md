@@ -1,2 +1,2 @@
-# sensor_heatbeat_attr
+# 传感器上报属性和心跳
 
