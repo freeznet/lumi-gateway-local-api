@@ -11,5 +11,5 @@
    * [motion](motion.md)
    * [无线开关传感器](switch.md)
    * [智能插座](plug.md)
-   * 单火开关单键
+   * [单火开关单键](86ctrl_neutral1.md)
 
