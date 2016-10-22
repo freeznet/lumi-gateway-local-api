@@ -6,7 +6,7 @@
 * [设备的读写操作](device_read_write.md)
 * [设备心跳](device_heartbeat.md)
 * [设备上报属性与控制](device_report_control.md)
-* [sensor_heatbeat_attr](sensor_heatbeat_attr.md)
+* [传感器上报属性和心跳](sensor_heatbeat_attr.md)
    * magnet
    * motion
 * device_read_write
