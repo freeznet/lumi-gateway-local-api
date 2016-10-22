@@ -9,5 +9,4 @@
 * [传感器上报属性和心跳](sensor_heatbeat_attr.md)
    * magnet
    * motion
-* device_read_write
 
