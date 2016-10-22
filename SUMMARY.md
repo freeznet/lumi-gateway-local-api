@@ -12,5 +12,5 @@
    * [无线开关传感器](switch.md)
    * [智能插座](plug.md)
    * [86单火开关单键](86ctrl_neutral1.md)
-   * 86单火开关双键
+   * [86单火开关双键](86ctrl_neutral2.md)
 
