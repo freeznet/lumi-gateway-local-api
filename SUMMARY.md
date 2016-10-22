@@ -2,5 +2,5 @@
 
 * [device_discover](device_discover.md)
    * gw_discover
-* device_read_write
+* [device_read_write](device_read_write.md)
 
