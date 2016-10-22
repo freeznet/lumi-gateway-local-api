@@ -7,5 +7,5 @@
 * [sensor_heatbeat_attr](sensor_heatbeat_attr.md)
    * magnet
 * device_read_write
-* device_read_write
+* [device_read_write](device_read_write.md)
 
