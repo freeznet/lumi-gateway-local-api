@@ -9,4 +9,5 @@
 * [传感器上报属性和心跳](sensor_heatbeat_attr.md)
    * [magnet](magnet.md)
    * [motion](motion.md)
+* 无线开关传感器
 
